@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
         // 渲染主角
         player.render(renderer);
 
-        // 更新畫面
+        // 更新畫面1
         SDL_RenderPresent(renderer);
     }
 
